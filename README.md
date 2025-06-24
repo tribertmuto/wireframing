@@ -95,4 +95,35 @@ Reason:
 We are currently in the planning and ideation phase, where the focus is on defining layout structure, user flow, and core functionality. Using low-fidelity wireframes allows for rapid iteration, easier feedback, and quicker decision-making without being distracted by design aesthetics.
 
 Once the structure and functionality are finalized, we may move on to high-fidelity mockups for visual design and prototyping.
+# Popular Wireframing Tools
+
+Creating effective wireframes requires the right tools that balance flexibility, ease of use, and collaboration. Below are some widely used wireframing tools in the design and development community:
+
+# Recommended Tool: Figma
+
+**Figma** is a cloud-based interface design tool that has become one of the most popular choices for wireframing, UI/UX design, and prototyping.
+
+Key Features:
+-Real-time Collaboration:* Multiple team members can work on the same file simultaneously.
+-Cross-Platform: As a web-based tool, Figma works on any operating system without installation.
+-Components & Styles:** Reusable components streamline design consistency.
+-Prototyping: Easily turn wireframes into clickable prototypes for user testing and stakeholder demos.
+-Version History: Track changes and revert to previous versions if needed.
+
+Why Figma is Great for Wireframing:
+- Intuitive drag-and-drop interface, perfect for creating both low- and high-fidelity wireframes.
+- Built-in asset libraries and templates for faster design.
+- Seamless handoff to developers via inspect tools and CSS export.
+
+Example Use Case:  
+Use Figma to sketch a basic wireframe of a hotel booking system's checkout page with placeholders for dates, guest info, and a confirmation button. Easily update the wireframe based on feedback in real-time.
+
+# Other Popular Wireframing Tools
+
+-Balsamiq: Ideal for low-fidelity wireframes; resembles hand-drawn sketches.
+-Adobe XD: Powerful for high-fidelity design and prototyping with Adobe ecosystem integration.
+-Sketch: Mac-only design tool with strong plugin support and vector editing.
+-Wireframe.cc: A minimalist web-based wireframing tool suited for quick drafts.
+
+Each tool has its strengths, and the best choice often depends on your project scope, team workflow, and design goals. For this project, **Figma** is recommended due to its ease of use, collaborative features, and scalability from wireframe to final design.
 
