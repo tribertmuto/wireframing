@@ -126,4 +126,44 @@ Use Figma to sketch a basic wireframe of a hotel booking system's checkout page 
 -Wireframe.cc: A minimalist web-based wireframing tool suited for quick drafts.
 
 Each tool has its strengths, and the best choice often depends on your project scope, team workflow, and design goals. For this project, **Figma** is recommended due to its ease of use, collaborative features, and scalability from wireframe to final design.
+# Benefits of Wireframing in Software Development
+
+Wireframing is not just a design task—it plays a crucial role in the software development process by acting as a blueprint for how the system should function and appear. From defining structure to aligning teams, wireframes offer multiple benefits that support a smooth and efficient development workflow.
+
+# Clarifies Requirements Early
+
+Wireframes help translate vague business ideas into tangible layouts, reducing ambiguity. By visualizing user flows, layout structures, and feature placement, development teams can better understand what needs to be built—before a single line of code is written.
+
+Example:  
+In our booking management system, a wireframe showing the Checkout page helps developers identify that they need to display total charges, collect guest info, and disable the confirmation button until all fields are filled.
+
+# Improves Team Communication
+
+Wireframes serve as a shared visual reference that aligns designers, developers, testers, and stakeholders. They eliminate guesswork and ensure that everyone has a clear understanding of how the application should function.
+
+Example:  
+When using a Figma wireframe, team members can leave comments directly on elements like the “Modify Dates” widget, making it easier to address feedback and track design decisions in real time.
+
+# Supports Early Testing and Feedback
+
+Low-fidelity wireframes allow for quick iterations and user feedback before investing in design or development. This saves time and effort by catching issues early.
+
+Example:  
+Stakeholders can review the wireframe of the Booking Summary section and request changes (e.g., add estimated taxes) before any UI code is written.
+
+# Guides UI and Backend Development
+
+Wireframes give developers a visual map for where functionality will be needed, such as API endpoints, data validation, and user input handling.
+
+Example:  
+From a wireframe, a developer can determine that:
+- A backend service is needed to calculate total charges.
+- Frontend validation is required for guest information input.
+- A confirmation receipt should be triggered upon successful checkout.
+
+
+
+# Reduces Rework and Scope Creep
+
+With wireframes, teams agree on functionality and structure up front, which helps prevent mid-project changes that derail timelines or increase costs.
 
